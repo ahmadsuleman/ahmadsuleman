@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmadsuleman
 - 👀 I’m interested in Reinforcement Learining 
 - 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on Machine Learning and Artificial Intelligenc 
+- 💞️ I’m looking to collaborate for implementing reinforcement learning for Artificial Intelligence in Machines. 
 - 📫 ahmadsuleman118@outlook.com
 
 <!---
